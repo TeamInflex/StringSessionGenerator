@@ -21,10 +21,10 @@ Mᴀᴅᴇ ᴡɪᴛʜ 🖤 ʙʏ : [ɪɴꜰʟᴇx](tg://user?id={OWNER_ID}) !""",
         reply_markup=InlineKeyboardMarkup(
             [
                 [
-                    InlineKeyboardButton(text="🙄 ɢᴇɴᴇʀᴀᴛᴇ sᴇssɪᴏɴ 🙄", callback_data="generate")
+                    InlineKeyboardButton(text="🔥 Sᴛᴀʀᴛ Gᴇɴᴇʀᴀᴛɪɴɢ Sᴇꜱꜱɪᴏɴ 🔥", callback_data="generate")
                 ],
                 [
-                    InlineKeyboardButton("❣️ sᴏᴜʀᴄᴇ ❣️", url="https://t.me/InflexSupport"),
+                    InlineKeyboardButton("❤️ Sᴜᴘᴘᴏʀᴛ ❤️", url="https://t.me/InflexSupport"),
                     InlineKeyboardButton("🥀 ᴅᴇᴠᴇʟᴏᴩᴇʀ 🥀", user_id=OWNER_ID)
                 ]
             ]
